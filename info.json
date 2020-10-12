@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "9ebfa984dad4338cde7333780412884e1caf2154",
+    "author": "Scott Chamberlain <myrmecocystus@gmail.com>",
+    "time": "2020-10-12 16:52:44",
+    "files": 2,
+    "merge": false,
+    "message": "remove url in a man file to avoid cran shit\n"
+  },
+  "remote": "https://github.com/ropensci/mapr",
+  "pkg": "mapr"
+}
